@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on ML & QC
 - 🌱 I’m currently learning QML
-- 💬 Ask me about ...
-- 📫 How to reach me at linkedin.com/in/togan-tlimakhov-514a231b5
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about anything [here](https://github.com/T0gan/T0gan/issues)
+- 📫 Reach me at [LinkedIn](linkedin.com/in/togan-tlimakhov-514a231b5/) or [Twitter](https://twitter.com/ToganTlimakhov)
+- ⚡ Fun fact: The snow on Venus is metal
