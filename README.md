@@ -1,4 +1,4 @@
-### Hi there, I'm Togan 👋
+### Hi there 👋
 
 
 - 🔭 I’m currently working on ML & QC
