@@ -11,4 +11,8 @@
 
 ##
 
+<p>
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=T0gan&show_icons=true&hide_border=true" />
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0gan)](https://github.com/anuraghazra/github-readme-stats)
