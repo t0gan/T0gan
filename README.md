@@ -1,7 +1,7 @@
 ### Hi there!
 
 
-- 🔭 I’m currently working on ML & QC
+- 🔭 I’m currently working on quantum error correction and microwave-optical transduction
 - 💬 Ask me about anything [here](https://github.com/T0gan/T0gan/issues)
 - 🌐 Reach me at [togan.me](https://togan.me)
 
