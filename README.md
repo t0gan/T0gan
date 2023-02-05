@@ -5,9 +5,7 @@
 - 💬 Ask me about anything [here](https://github.com/T0gan/T0gan/issues)
 - 🌐 Reach me at [togan.me](https://togan.me)
 
-### Recent publications:
-[Modified Layerwise Learning for Data Re-uploading Classifier in HEP Classification](https://ieeexplore.ieee.org/document/9605291)                     
-[Quantum GANs for Higgs boson ttH process Data Generation](https://zenodo.org/record/5577410#.YaonH9BBxPY)
+
 
 ##
 <p>
