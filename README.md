@@ -1,7 +1,7 @@
 ### Hi there!
 
 
-- 🔭 I’m currently working on QEC and microwave-optical transduction
+- 🔭 I’m currently working on QEC
 - 💬 Ask me about anything [here](https://github.com/T0gan/T0gan/issues)
 - 🌐 Reach me at [togan.me](https://togan.me)
 
